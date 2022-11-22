@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h-bg {
+    color: #ffffff;
+    background-color: #1b1b1b;
+    height: 100vh;
+    padding: 10px 20px 10px 20px;
+    font-family: Bree Serif;
+}
+
+.h-top-card {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    height: 30vh;
+    background-color: #e6f6ff;
+}
+
+.h-top-card-ele {
+    padding: 20px 0px 5px 10px;
+    text-align: left;
+}
+
+.h-img-top {
+    width: 35vw;
+}
+
+.h-img-btm {
+    width: 25vw;
+}
+
+.sml-txt {
+    font-size: 15px;
+}
+
+.h-btm-cards {
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 24vh;
+}
+
+.h-btm-card-ele {
+    padding: 20px 0px 5px 10px;
+    text-align: left;
+}
+
+.t-clr {
+    color: #183b56;
+}
+
+.t2-clr {
+    color: #06070d;
+}
+
+.des-txt {
+    color: #9aa5b1;
+}
+
+.page2-img {
+    margin-bottom: 10px;
+    height: 40vh;
+    width: 50vw;
+}
+
+.top-sec {
+    text-align: center;
+    margin: 10px 20vw 10px 20vw;
+    height: 55vh;
+}
+
+.clr-p {
+    color: #e4e7eb;
+}
+
+.button {
+    font-family: Roboto;
+    margin-right: 5px;
+}
